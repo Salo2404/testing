@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.h1 {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.container{
+    background-color: whitesmoke;
+    width: 400px;
+    height: 250px;
+    justify-content: center;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
